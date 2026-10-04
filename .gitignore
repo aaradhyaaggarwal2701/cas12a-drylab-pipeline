@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+drylab_out/
+.DS_Store
